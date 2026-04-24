@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech in **Information Technology**
-- 💡 Passionate about **Machine Learning**, **Full-Stack Development**, and **Data Science**
+- 💡 Passionate about  **Full-Stack Development**, **Machine Learning**
 - 🔭 Currently building: **GoalMiner** — football player market value prediction & squad optimization
 - 🌱 Always learning, always shipping
 
@@ -38,9 +38,7 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=data:image/png;base64,&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Tools & Platforms**
 
