@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ayush Bansal 👋</h1>
 
 <p align="center">
-  <b>Information Technology Student</b> • ML & Full-Stack Developer • Building things that matter
+  <b>Information Technology Student</b> • Full-Stack Developer • Backend Enthusiast • Building things that matter
 </p>
 
 <p align="center">
@@ -18,8 +18,9 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech in **Information Technology**
-- 💡 Passionate about  **Full-Stack Development**, **Machine Learning**
-- 🔭 Currently building: **GoalMiner** — football player market value prediction & squad optimization
+- ⚙️ Focused on **Backend Development** and **Full-Stack Engineering**
+- 🛠️ Love building **REST APIs, scalable server-side systems, and clean frontend interfaces**
+- 🔭 Currently building: **GoalMiner** — full-stack analytics app (FastAPI backend + React frontend)
 - 🌱 Always learning, always shipping
 
 ---
@@ -34,17 +35,20 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Frameworks & Libraries**
+**Backend & Frameworks**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=data:image/png;base64,&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Tools & Platforms**
+**Databases & Tools**
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -52,20 +56,21 @@
 ## 📌 Featured Projects
 
 ### 🏟️ [GoalMiner](https://github.com/AyushB75/GoalMiner)
-> Football player market value prediction & squad optimization engine
+> Full-stack football analytics platform — market value prediction & squad optimization
 
-- Stacking ensemble (Random Forest + XGBoost) for market value prediction
-- K-Means clustering for player role profiling
-- FastAPI backend + React/TypeScript/Tailwind frontend
-- **Tech:** Python, FastAPI, React, TypeScript, Scikit-Learn, XGBoost
+- Built a **REST API backend with FastAPI** handling predictions, player data, and squad logic
+- React + TypeScript + Tailwind frontend with interactive dashboards
+- Integrated ML models (Random Forest, XGBoost) as backend services
+- **Tech:** Python, FastAPI, React, TypeScript, Tailwind, SQL
 
 ---
 
 ### 🎬 [Cineverse](https://github.com/AyushB75/Cineverse)
-> A cinematic movie discovery and recommendation app built with React Native & Expo
+> A cinematic movie discovery and recommendation app
 
-- Browse, search, and discover movies with a smooth mobile-first UI
-- Fetches real-time data from TMDB API — trending, top-rated, and genre-based results
+- Mobile-first UI for browsing, searching, and discovering movies
+- Integrated TMDB REST API for real-time trending, top-rated, and genre-based data
+- Built with smooth navigation and clean component architecture
 - **Tech:** React Native, Expo, JavaScript, TMDB REST API
 
 ---
