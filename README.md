@@ -64,9 +64,11 @@
 ---
 
 ### 🎬 [Cineverse](https://github.com/AyushB75/Cineverse)
-> Movie discovery and recommendation app
+> A cinematic movie discovery and recommendation app built with React Native & Expo
 
-- **Tech:** React, JavaScript, REST APIs
+- Browse, search, and discover movies with a smooth mobile-first UI
+- Fetches real-time data from TMDB API — trending, top-rated, and genre-based results
+- **Tech:** React Native, Expo, JavaScript, TMDB REST API
 
 ---
 
