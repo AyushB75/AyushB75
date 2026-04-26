@@ -20,7 +20,6 @@
 - 🎓 B.Tech in **Information Technology**
 - ⚙️ Focused on **Backend Development** and **Full-Stack Engineering**
 - 🛠️ Love building **REST APIs, scalable server-side systems, and clean frontend interfaces**
-- 🔭 Currently building: **GoalMiner** — full-stack analytics app (FastAPI backend + React frontend)
 - 🌱 Always learning, always shipping
 
 ---
