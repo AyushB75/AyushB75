@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in **Information Technology** @ Manipal Institute of Technology
+- 🎓 B.Tech in **Information Technology** @ Manipal Institute of Technology, Manipal
 - ⚙️ Focused on **Backend Development** and **Full-Stack Engineering**
 - 🛠️ Love building **REST APIs, scalable server-side systems, and clean frontend interfaces**
 - 🤖 Into **Machine Learning** — from ensemble models to hybrid detection systems
@@ -29,7 +29,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
