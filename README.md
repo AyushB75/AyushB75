@@ -19,7 +19,6 @@
 - ⚙️ Focused on **Backend Development** and **Full-Stack Engineering**
 - 🛠️ Love building **REST APIs, scalable server-side systems, and clean frontend interfaces**
 - 🤖 Into **Machine Learning** — from ensemble models to hybrid detection systems
-- 🌱 Always learning, always shipping
 
 ---
 
