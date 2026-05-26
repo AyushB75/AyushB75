@@ -27,8 +27,8 @@ B.Tech Information Technology student at **Manipal Institute of Technology**, fo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Backend & Frameworks**
 
@@ -90,7 +90,7 @@ B.Tech Information Technology student at **Manipal Institute of Technology**, fo
 
 ---
 
-### 💻 [Leetcode](https://github.com/AyushB75/Leetcode)
+### 💻 [Leet\_Code](https://github.com/AyushB75/Leet_Code)
 **Structured DSA grind — following Striver's SDE Sheet**
 
 - Covering Arrays, Linked Lists, Trees, DP, Graphs, and more
@@ -104,9 +104,10 @@ B.Tech Information Technology student at **Manipal Institute of Technology**, fo
 
 <div align="center">
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushB75&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushB75&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushB75&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushB75&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushB75&theme=tokyonight)
 
 </div>
 
