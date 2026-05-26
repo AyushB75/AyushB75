@@ -106,8 +106,8 @@ B.Tech Information Technology student at **Manipal Institute of Technology**, fo
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushB75&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushB75&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushB75&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushB75&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushB75&theme=tokyonight" width="48%"/>
 
 </div>
 
