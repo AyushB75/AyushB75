@@ -83,12 +83,13 @@ B.Tech Information Technology student at **Manipal Institute of Technology**, fo
 ---
 
 ### 🎬 [Cineverse](https://github.com/AyushB75/Cineverse)
-**Mobile-first movie discovery and recommendation app**
+**Cross-platform mobile app for movie discovery, search, and watchlist management**
 
-- Integrated TMDB REST API for trending, top-rated, and genre-based content
-- Smooth navigation and clean component architecture built with Expo
+- Built with React Native and Expo targeting both Android and iOS
+- AsyncStorage for offline persistence and Context API for app-wide state management
+- Responsive multi-screen interface with fluid navigation
 
-`React Native` `Expo` `JavaScript` `TMDB API`
+`React Native` `Expo` `JavaScript` `AsyncStorage` `Context API`
 
 ---
 
