@@ -16,7 +16,7 @@ B.Tech Information Technology student at **Manipal Institute of Technology**, fo
 - ⚙️ Backend-first, but comfortable across the full stack
 - 🔬 ML practitioner — ensemble models, hybrid detection systems, real-world datasets
 - 🏗️ Currently grinding DSA (Striver's SDE Sheet) + Meta Backend Developer Certificate
-- 🎯 Targeting SDE roles — campus placements, July 2026
+- 🎯 Targeting SDE roles
 
 ---
 
