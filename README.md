@@ -98,7 +98,7 @@ B.Tech Information Technology student at **Manipal Institute of Technology**, fo
 - Covering Arrays, Linked Lists, Trees, DP, Graphs, and more
 - Consistent solutions in C++
 
-`C++`
+`C++` `Python`
 
 ---
 
