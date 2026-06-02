@@ -14,7 +14,7 @@
 B.Tech Information Technology student at **Manipal Institute of Technology**, focused on building systems that are fast, scalable, and actually useful.
 
 - ⚙️ Backend-first, but comfortable across the full stack
-- 🔬 ML enthusiast— ensemble models, hybrid detection systems, real-world datasets
+- 🔬 ML Enthusiast— ensemble models, hybrid detection systems, real-world datasets
 - 🏗️ Currently grinding DSA (Striver's SDE Sheet) + Meta Backend Developer Certificate
 - 🎯 Actively seeking SDE roles
 
@@ -27,7 +27,6 @@ B.Tech Information Technology student at **Manipal Institute of Technology**, fo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
