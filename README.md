@@ -76,7 +76,7 @@ B.Tech Information Technology student at **Manipal Institute of Technology**, fo
 - React + TypeScript + Tailwind frontend with interactive dashboards
 - Random Forest and XGBoost models served as backend microservices
 
-`Python` `FastAPI` `React` `TypeScript` `Tailwind` `SQL`
+`Python` `FastAPI` `React`  `Tailwind` `SQL`
 
 ---
 
