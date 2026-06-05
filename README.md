@@ -11,7 +11,7 @@
 
 ## About Me
 
-B.Tech Information Technology student at **Manipal Institute of Technology**, focused on building systems that are fast, scalable, and actually useful.
+B.Tech Information Technology student at **Manipal Institute of Technology**, focused on building systems that are fast, scalable, and real world sustainable. 
 
 - ⚙️ Backend-first, but comfortable across the full stack
 - 🔬 ML Enthusiast— ensemble models, hybrid detection systems, real-world datasets
