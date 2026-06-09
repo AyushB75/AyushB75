@@ -65,7 +65,7 @@ B.Tech Information Technology student at **Manipal Institute of Technology**, fo
 - 7 ML classifiers achieving **99.3% accuracy** and **0.998 ROC-AUC** — outperforms Ayo et al. 2023, Rana et al. 2021
 - Full-stack: Flask REST API + React dashboard with live analysis, score panels, and history export
 
-`Python` `Flask` `React` `scikit-learn` `XGBoost` `dnspython` `Tailwind`
+`Python` `Flask` `React` `scikit-learn` `XGBoost`  `Tailwind`
 
 ---
 
