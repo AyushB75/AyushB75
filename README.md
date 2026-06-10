@@ -11,7 +11,7 @@
 
 ## About Me
 
-B.Tech Information Technology student at **Manipal Institute of Technology**, focused on building systems that are fast, scalable, and real world sustainable. 
+B.Tech Information Technology student at **Manipal Institute of Technology** passionate about backend engineering, machine learning, and scalable software systems. I enjoy building production-oriented applications that combine clean architecture, data-driven decision making, and practical user experiences.
 
 - ⚙️ Backend-first, but comfortable across the full stack
 - 🔬 ML Enthusiast— ensemble models, hybrid detection systems, real-world datasets
