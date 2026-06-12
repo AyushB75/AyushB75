@@ -59,7 +59,7 @@ B.Tech Information Technology student at **Manipal Institute of Technology** pas
 ## Featured Projects
 
 ### 🔐 [DNS Fast Flux Detector](https://github.com/AyushB75/DNS-Fast-Flux-Detector)
-**Hybrid rule-based + ML system for detecting Fast Flux DNS domains — published research**
+**Hybrid rule-based + ML system for detecting Fast Flux DNS domains**
 
 - Custom rule engine scoring domains across 6 DNS behavioral features
 - 7 ML classifiers achieving **99.3% accuracy** and **0.998 ROC-AUC** — outperforms Ayo et al. 2023, Rana et al. 2021
