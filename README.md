@@ -62,7 +62,7 @@ B.Tech Information Technology student at **Manipal Institute of Technology** pas
 **Hybrid rule-based + ML system for detecting Fast Flux DNS domains**
 
 - Custom rule engine scoring domains across 6 DNS behavioral features
-- 7 ML classifiers achieving **99.3% accuracy** and **0.998 ROC-AUC** — outperforms Ayo et al. 2023, Rana et al. 2021
+- 7 ML classifiers achieving **99.3% accuracy** and **0.998 ROC-AUC** 
 - Full-stack: Flask REST API + React dashboard with live analysis, score panels, and history export
 
 `Python` `Flask` `React` `scikit-learn` `XGBoost`  `Tailwind`
