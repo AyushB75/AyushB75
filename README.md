@@ -64,7 +64,7 @@ B.Tech Information Technology final year student at **Manipal Institute of Techn
 
 - Custom rule engine scoring domains across 6 DNS behavioral features
 - 7 ML classifiers achieving **99.3% accuracy** and **0.998 ROC-AUC** 
-- Full-stack: Flask REST API + React dashboard with live analysis, score panels, and history export
+- Full-stack: Flask REST API + React dashboard with live analysis, score panels
 
 `Python` `Flask` `React` `scikit-learn` `XGBoost`  `Tailwind`
 
