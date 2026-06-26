@@ -16,7 +16,7 @@ B.Tech Information Technology final year student at **Manipal Institute of Techn
 
 - ⚙️ Backend-first, but comfortable across the full stack
 - 🔬 ML Enthusiast— ensemble models, hybrid detection systems, real-world datasets
-- 🏗️ Currently grinding DSA (Striver's SDE Sheet) 
+- 🏗️ Currently grinding DSA (Striver's SDE Sheet) + Full-stack implementation 
 - 🎯 Actively seeking SDE and ML roles
 
 ---
