@@ -96,7 +96,7 @@ B.Tech Information Technology final year student at **Manipal Institute of Techn
 **Structured DSA grind — following Striver's SDE Sheet**
 
 - Covering Arrays, Linked Lists, Trees, DP, Graphs, and more
-- Consistent solutions in C++
+- Consistent solutions in C++ with my approach on how to go about the problem
 
 `C++` 
 
