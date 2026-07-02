@@ -74,7 +74,7 @@ Final-year B.Tech Information Technology student at **Manipal Institute of Techn
 
 - FastAPI backend handling predictions, player data, and squad logic
 - React + TypeScript + Tailwind frontend with interactive dashboards
-- Random Forest and XGBoost models served as backend microservices
+- Random Forest and XGBoost and other models served as backend microservices
 
 `Python` `FastAPI` `React`  `Tailwind` `SQL`
 
