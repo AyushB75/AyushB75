@@ -85,7 +85,7 @@ Final-year B.Tech Information Technology student at **Manipal Institute of Techn
 
 - Built with React Native and Expo targeting both Android and iOS
 - AsyncStorage for offline persistence and Context API for app-wide state management
-- Responsive multi-screen interface with smooth navigation and rayal accent
+- Responsive multi-screen interface with smooth navigation and royal accent
 
 `React Native` `Expo` `JavaScript` `AsyncStorage` `Context API`
 
