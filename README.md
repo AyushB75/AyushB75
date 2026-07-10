@@ -14,7 +14,7 @@
 
 Final-year B.Tech Information Technology student at **Manipal Institute of Technology, Manipal** passionate about designing scalable backend systems, building machine learning applications, and solving algorithmic problems. I enjoy taking ideas from research and transforming them into production-ready software.
 
-- ⚙️ Backend-first, but comfortable across the full stack and ml models
+- ⚙️ Backend-first, but comfortable across the full stack 
 - 🔬 ML Enthusiast— ensemble models, hybrid detection systems, real-world datasets
 - 🏗️ Currently grinding DSA (Striver's SDE Sheet) + Full-stack implementation 
 - 🎯 Actively seeking SDE and ML roles
