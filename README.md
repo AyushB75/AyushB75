@@ -97,7 +97,7 @@ Final-year B.Tech Information Technology student at **Manipal Institute of Techn
 - Covering Arrays, Linked Lists, Trees, DP, Graphs, and more
 - Consistent solutions in C++ with my approach on how to go about the problem
 
-`C++` 
+`C++` `Python`
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
