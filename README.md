@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-bansal-1a221a366/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushB75)
-![Profile Views](https://komarev.com/ghpvc/?username=AyushB75&style=for-the-badge&color=302b63)
+
 
 </div>
 
@@ -112,22 +112,11 @@ Final-year B.Tech Information Technology student at **Manipal Institute of Techn
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AyushB75&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushB75&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushB75&layout=compact&theme=radical&hide_border=true" />
+ />
 
 </div>
 
----
 
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-bansal-1a221a366/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushB75)
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
