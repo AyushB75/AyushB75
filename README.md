@@ -111,7 +111,6 @@ Final-year B.Tech Information Technology student at **Manipal Institute of Techn
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AyushB75&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushB75&theme=radical&hide_border=true" />
 
 </div>
