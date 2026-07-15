@@ -103,7 +103,7 @@ B.Tech IT, Manipal Institute of Technology (Batch of 2027). I build scalable bac
 - Consistent daily solutions in C++, each with approach notes
 - Organized by topic with zero-padded problem numbering for easy navigation
 
-`C++` `Python`
+`C++` 
 
 ---
 
