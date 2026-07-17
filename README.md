@@ -107,16 +107,6 @@ B.Tech IT, Manipal Institute of Technology (Batch of 2027). I build scalable bac
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushB75&theme=radical&hide_border=true" />
-
-</div>
-
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
 </div>
