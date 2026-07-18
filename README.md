@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-bansal-1a221a366/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushB75)
 
-
 </div>
 
 ---
@@ -17,8 +16,7 @@ B.Tech IT, Manipal Institute of Technology (Batch of 2027). I build scalable bac
 - ⚙️ Backend-first, but comfortable across the full stack
 - 🔬 ML enthusiast — ensemble models, hybrid detection systems, real-world datasets
 - 🏗️ Currently grinding DSA (Striver's SDE Sheet) and gearing up for campus placements
-- 📜 Google Cloud Digital Leader certified
-- 🎯 Actively seeking SDE and ML roles
+- 🎯 Google Cloud Digital Leader certified, AIR 3016 in MET 2023
 
 ---
 
@@ -100,10 +98,10 @@ B.Tech IT, Manipal Institute of Technology (Batch of 2027). I build scalable bac
 **Structured DSA grind — following Striver's SDE Sheet**
 
 - 90+ problems solved across Arrays, Binary Search, Heaps, Stack/Queue, Strings, and more
-- Consistent daily solutions in C++, each with their approach 
+- Consistent daily solutions in C++, each with approach notes
 - Organized by topic with zero-padded problem numbering for easy navigation
 
-`C++` 
+`C++` `Python`
 
 ---
 
