@@ -15,7 +15,6 @@ B.Tech IT, Manipal Institute of Technology (Batch of 2027). I build scalable bac
 - ⚙️ Backend-first, but comfortable across the full stack
 - 🔬 ML enthusiast — ensemble models, hybrid detection systems, real-world datasets
 - 🏗️ Currently grinding DSA (Striver's SDE Sheet) and gearing up for campus placements
-- 📜 Google Cloud Digital Leader certified, AIR 3016 in MET 2023
 - 🎯 Actively seeking SDE and ML roles
 ---
 
