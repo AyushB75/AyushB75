@@ -10,7 +10,7 @@
 
 ## About Me
 
-B.Tech IT, Manipal Institute of Technology (Batch of 2027). I build scalable backend systems and ML-driven applications, turning research ideas into production-ready software.
+Final-year B.Tech Information Technology student at **Manipal Institute of Technology, Manipal** passionate about designing scalable backend systems, building machine learning applications, and solving algorithmic problems. I enjoy taking ideas from research and transforming them into production-ready software.
 
 - ⚙️ Backend-first, but comfortable across the full stack
 - 🔬 ML enthusiast — ensemble models, hybrid detection systems, real-world datasets
