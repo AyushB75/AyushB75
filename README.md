@@ -95,7 +95,7 @@ Final-year B.Tech Information Technology student at **Manipal Institute of Techn
 ### 💻 [Leet_Code](https://github.com/AyushB75/Leet_Code)
 **Structured DSA grind — following Striver's SDE Sheet**
 
-- 90+ problems solved across Arrays, Binary Search, Heaps, Stack/Queue, Strings, and more
+- 100+ problems solved across Arrays, Binary Search, Heaps, Stack/Queue, Strings, and more
 - Consistent daily solutions in C++, each with approach notes
 - Organized by topic with zero-padded problem numbering for easy navigation
 
