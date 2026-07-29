@@ -98,9 +98,7 @@ Final-year B.Tech IT student at **Manipal Institute of Technology, Manipal** pas
 - 100+ problems solved across Arrays, Binary Search, Heaps, Stack/Queue, Strings, and more
 - Consistent daily solutions in C++, each with approach notes
 - Organized by topic with zero-padded problem numbering for easy navigation
-
-`C++` 
-
+  
 ---
 
 <div align="center">
