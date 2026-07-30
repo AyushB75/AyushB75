@@ -10,12 +10,13 @@
 
 ## About Me
 
-Final-year B.Tech IT student at **Manipal Institute of Technology, Manipal** passionate about designing scalable backend systems, building machine learning applications, and solving algorithmic problems.
+Final-year B.Tech IT student at **Manipal Institute of Technology, Manipal**, building scalable backend systems and machine learning applications, and sharpening problem-solving skills through competitive DSA practice.
 
-- ⚙️ Backend-first, but comfortable across the full stack
+- ⚙️ Backend-first, comfortable across the full stack
 - 🔬 ML enthusiast — ensemble models, hybrid detection systems, real-world datasets
-- 🏗️ Currently grinding DSA (Striver's SDE Sheet) and gearing up for campus placements
+- 🏗️ Currently working through Striver's SDE Sheet ahead of campus placements
 - 🎯 Actively seeking SDE and ML roles
+
 ---
 
 ## Tech Stack
@@ -59,18 +60,18 @@ Final-year B.Tech IT student at **Manipal Institute of Technology, Manipal** pas
 ## Featured Projects
 
 ### 🔐 [DNS Fast Flux Detector](https://github.com/AyushB75/DNS-Fast-Flux-Detector)
-**Hybrid rule-based + ML system for detecting Fast Flux DNS domains**
+**Hybrid rule-based + ML system for detecting fast-flux DNS domains**
 
 - Custom rule engine scoring domains across 6 DNS behavioral features
 - 7 ML classifiers achieving **99.3% accuracy** and **0.998 ROC-AUC**
-- Full-stack: Flask REST API + React dashboard with live analysis 
+- Full-stack delivery: Flask REST API + React dashboard with live analysis
 
 `Python` `Flask` `React` `scikit-learn` `XGBoost` `Tailwind`
 
 ---
 
 ### ⚽ [GoalMiner](https://github.com/AyushB75/GoalMiner)
-**Football analytics platform — market value prediction & squad optimization**
+**Football analytics platform for market value prediction and squad optimization**
 
 - FastAPI backend handling predictions, player data, and squad logic
 - XGBoost ensemble models with SHAP explainability for interpretable valuations
@@ -85,20 +86,20 @@ Final-year B.Tech IT student at **Manipal Institute of Technology, Manipal** pas
 **Cross-platform mobile app for movie discovery, search, and watchlist management**
 
 - Built with React Native and Expo, targeting both Android and iOS
-- AsyncStorage for offline persistence and Context API for app-wide state management
-- Responsive multi-screen interface with smooth navigation and a royal accent theme
+- AsyncStorage for offline persistence, Context API for app-wide state management
+- Responsive multi-screen interface with smooth navigation and a royal-blue accent theme
 
 `React Native` `Expo` `JavaScript` `AsyncStorage` `Context API`
 
 ---
 
 ### 💻 [Leet_Code](https://github.com/AyushB75/Leet_Code)
-**Structured DSA grind — following Striver's SDE Sheet**
+**Structured DSA practice following Striver's SDE Sheet**
 
 - 100+ problems solved across Arrays, Binary Search, Heaps, Stack/Queue, Strings, and more
-- Consistent daily solutions in C++, each with approach notes
+- Daily solutions in C++, each with approach notes
 - Organized by topic with zero-padded problem numbering for easy navigation
-  
+
 ---
 
 <div align="center">
