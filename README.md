@@ -98,8 +98,7 @@ Final-year B.Tech IT student at **Manipal Institute of Technology, Manipal**, bu
 
 - 100+ problems solved across Arrays, Binary Search, Heaps, Stack/Queue, Strings, and more
 - Daily solutions in C++, each with approach notes
-- Organized by topic with zero-padded problem numbering for easy navigation
-
+- Each solution includes a short approach note at the top of the file — brute force intuition, optimization, and time/space complexity
 ---
 
 <div align="center">
